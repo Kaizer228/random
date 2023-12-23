@@ -1,0 +1,26 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container {
+background-color: aqua;
+height: 300px;
+width: 300px;
+margin: auto;
+padding: 10px;
+border-radius: 30px;
+text-align: center;
+position: relative; /* Added this line */
+}
+.Btns {
+margin-top: 100px;
+}
+.btn {
+width: 100px;
+border: none;
+border-radius: 23px;
+padding: 10px;
+position: absolute; 
+font-size: larger;
+font-weight: bolder;
+}
